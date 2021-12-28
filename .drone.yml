@@ -14,5 +14,5 @@ steps:
       from_secret:  u_docker
     password:
       from_password: p_docker
-    respo:  albertopaniagua3140/nginxhelloworld
+    respo:  apaniagua3140/nginxhelloworld
     tags: "test_1"
